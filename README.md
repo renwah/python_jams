@@ -11,7 +11,4 @@ and interacting with PostgreSQL databases.
 
 Before starting this crash course, I recommend installing Anaconda (even if you
 already installed Python separately). Anaconda is a Python distribution designed
-with data science in mind and includes a number of useful features such as improved virtual environment management and package installation. Furthermore, a
-virtual environment containing all the necesssary libraries for this project is
-available on Anaconda Cloud (see below). You can download Anaconda [at this link.](https://www.anaconda.com/distribution/#download-section); please select the
-Python 3.X option.
+with data science in mind and includes a number of useful features such as improved virtual environment management and package installation. You can download Anaconda [at this link.](https://www.anaconda.com/distribution/#download-section); please select the Python 3.X option.
